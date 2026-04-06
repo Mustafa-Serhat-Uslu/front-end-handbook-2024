@@ -20,12 +20,12 @@ body {
 *,
 *::before,
 *::after {
-    box-sizing: inherit;
+    box-sizing: inherit ;
 }
 
 a {
     color: inherit;
-    text-decoration: none;
+    text-decoration: underscore;
 }
 
 ul {
